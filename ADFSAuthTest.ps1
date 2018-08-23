@@ -59,7 +59,7 @@ Kerberos authentication requires the host name of the STS to be added to the Int
 For oAuth, the Azure PowerShell module is required.  use "Install-Module Azure" to install it.
 
 .LINK
-
+https://github.com/luisfeliz79/ADFSAuthTest
 
 #>
 
